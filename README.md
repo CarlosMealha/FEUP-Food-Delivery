@@ -6,18 +6,18 @@
 - [x] Login/Logout
 - [x] Edit Profile
 - [x] Add Restaurant
-- [ ] Edit Restaurant
+- [x] Edit Restaurant
 - [x] Add Dishes
 - [x] Add Dish Photo
 - [x] List Reviews
-- [ ] Restaurant Owner Can Answer to Review
+- [x] Restaurant Owner Can Answer to Review
 - [x] List Customer Orders
-- [ ] Change Order State
+- [x] Change Order State
 - [x] Search Restaurants
-- [ ] Order Dishes
+- [x] Order Dishes
 - [x] List My Orders
-- [ ] Mark Restaurant as Favourite
-- [ ] Mark Dish as Favourite
+- [x] Mark Restaurant as Favourite
+- [x] Mark Dish as Favourite
 - [x] Customer Can Leave a Review
 
 ## Credentials
